@@ -90,3 +90,7 @@ Notes
 
 - Keep the parsing logic small and testable — this repo's UI is intentionally minimal; the real value is the chord parsing module.
 - Avoid adding heavy runtime dependencies; implement mapping tables (12-tone circle) and simple rules in TypeScript.
+
+Agent style
+
+- Don't use emogies in generated messages, code comments, or docs. Follow plain text for emphasis and punctuation.
