@@ -15,7 +15,7 @@
   "license": "MIT",
   "commands": [
     {
-      "name": "chordy",
+      "name": "index",
       "title": "Chordy",
       "description": "Opens up the input for finding chords",
       "mode": "view"
