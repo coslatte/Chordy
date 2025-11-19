@@ -120,7 +120,7 @@ export default function Command() {
         </Form.Dropdown>
 
         {/* SCALE SELECTION */}
-          <Form.Dropdown id="scale" title="Scale" defaultValue={ScaleName.Major} storeValue={false}>
+        <Form.Dropdown id="scale" title="Scale" defaultValue={ScaleName.Major} storeValue={false}>
           <Form.Dropdown.Item value={ScaleName.Major} title="Major" />
           <Form.Dropdown.Item value={ScaleName.Minor} title="Minor" />
         </Form.Dropdown>
